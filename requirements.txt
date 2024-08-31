@@ -1,0 +1,21 @@
+Must have nodejs and npm (check using node -v and npm -v) command.
+
+Install Nodemon (realtime update for files)
+Install Express
+Install serverless-mysql
+
+Familiarity sa http methods (GET, PUT, PATCH, DELETE)
+Familiarity sa objects, functions
+Familiarity sa sql queries
+
+
+
+https://expressjs.com/en/guide/routing.html
+https://expressjs.com/en/guide/using-middleware.html
+
+
+Extensions:
+Thunderclient
+
+
+don't forget to run npm install to install the packages on this project.
